@@ -11,3 +11,6 @@ CAP3
     .........
 ...
 REFERÊNCIA
+    REF1
+    REF2
+    REF3
